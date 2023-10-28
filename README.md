@@ -41,5 +41,11 @@ Due to license decisions, I decided to remove the source code (This is an active
 #
 - <b>AWS:</b> S3 for file storage
 - <b>Language:</b> TypeScript
-- <b>Payments:</b> LemonSqueezy (API & Webhooks).
+- <b>Payments:</b> LemonSqueezy (API & Webhooks)
+
+#
+- <b>More Tools</b>
+  - <b>Midjourney:</b> Portrait Images AI Generations
+  - <b>Figma:</b> Wireframes, UI/UX
+  - <b>Photoshop & Illustrator:</b> Logo, Graphic Assets, Illustrations, etc.
 
