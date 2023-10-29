@@ -28,7 +28,7 @@ Due to license decisions, I decided to remove the source code (This is an active
 #        
 - <b>Hosting:</b>
   - <b>Hosting The Website</b>:
-    - Ubunto server (Custom VPS)
+    - Ubuntu server (Custom VPS)
     - NGINX
     - PM2
     - Node.js
@@ -48,4 +48,5 @@ Due to license decisions, I decided to remove the source code (This is an active
   - <b>Midjourney:</b> Portrait Images AI Generations
   - <b>Figma:</b> Wireframes, UI/UX
   - <b>Photoshop & Illustrator:</b> Logo, Graphic Assets, Illustrations, etc.
+  - <b>Crypto.JS:</b> To encrypt the user's leads.
 
