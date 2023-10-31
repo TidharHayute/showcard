@@ -39,6 +39,13 @@ Due to license decisions, I decided to remove the source code (This is an active
     - Cloudflare ZeroTrust Tunnel for DDoS and Firewall
 
 #
+- <b>Landing Page: [Website](https://showcard.io/)</b>
+
+  - Tailwind CSS
+  - Framer Motion
+  - All Custom-made components
+
+#
 - <b>AWS:</b> S3 for file storage
 - <b>Language:</b> TypeScript
 - <b>Payments:</b> LemonSqueezy (API & Webhooks)
