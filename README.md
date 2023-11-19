@@ -1,6 +1,4 @@
-![2023, 21_05_03 GMT+2](https://github.com/TidharHayute/showcard/assets/46723284/1c9596e5-a8ba-4e18-8427-2231435ce0d7)# Showcard
-
-Due to license decisions, I decided to remove the source code (This is an active business). You can check the platform here: www.showcard.io, and I will explain about the stack I used to build this project.
+Due to license decisions, I decided to remove the source code. You can check the platform here: www.showcard.io, and I will explain about the stack I used to build this project.
 
 <img width="1200" alt="Banner" src="https://github.com/TidharHayute/showcard/assets/46723284/3a5f78f5-ae6b-4505-8546-84c64519d040">
 
