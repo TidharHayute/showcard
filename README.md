@@ -1,8 +1,9 @@
-# Showcard
+![2023, 21_05_03 GMT+2](https://github.com/TidharHayute/showcard/assets/46723284/1c9596e5-a8ba-4e18-8427-2231435ce0d7)# Showcard
 
 Due to license decisions, I decided to remove the source code (This is an active business). You can check the platform here: www.showcard.io, and I will explain about the stack I used to build this project.
 
-<img width="1200" alt="Banner" src="https://github.com/TidharHayute/showcard/assets/46723284/13b31fc6-354d-4e45-a59d-92bfaa79ed75">
+<img width="1200" alt="Banner" src="https://github.com/TidharHayute/showcard/assets/46723284/3a5f78f5-ae6b-4505-8546-84c64519d040">
+
 
 ### Tech Stack
 - <b>Framework</b>: [Next.js](https://nextjs.org/) (React Framework)
@@ -56,4 +57,11 @@ Due to license decisions, I decided to remove the source code (This is an active
   - <b>Figma:</b> Wireframes, UI/UX
   - <b>Photoshop & Illustrator:</b> Logo, Graphic Assets, Illustrations, etc.
   - <b>Crypto.JS:</b> To encrypt the user's leads.
+
+#
+- <b>Screenshots:</b>
+
+![2023, 20_59_15 GMT+2](https://github.com/TidharHayute/showcard/assets/46723284/8721c6d2-283a-40c7-aea5-6a872d519580)
+![2023, 21_05_03 GMT+2](https://github.com/TidharHayute/showcard/assets/46723284/6322cb6a-829d-4348-8ec4-0daf3fdbf4e2)
+![Banner](https://github.com/TidharHayute/showcard/assets/46723284/13b31fc6-354d-4e45-a59d-92bfaa79ed75)
 
